@@ -1,0 +1,10 @@
+﻿  DirectXHook.cpp
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\DirectXHook.cpp(18,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  dllmain.cpp
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\dllmain.cpp(54,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Hooks.cpp
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(355,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  InputSys.cpp
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\InputSys.cpp(163,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Utils.cpp
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Utils.cpp(122,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?

@@ -1,0 +1,119 @@
+﻿  Hooks.cpp
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(51,82): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(149,27): warning C4244: '=': conversion from 'QWORD' to 'DWORD', possible loss of data
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(171,13): warning C4244: '=': conversion from 'QWORD' to 'int', possible loss of data
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(295,25): warning C4018: '>': signed/unsigned mismatch
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(329,55): warning C4244: '=': conversion from '__int64' to 'unsigned char', possible loss of data
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(344,21): error C2664: '__int64 (__int64 *,__int64 (__cdecl *)(void),HINSTANCE__ *)': cannot convert argument 2 from '__int64 (__cdecl *)(__int64)' to '__int64 (__cdecl *)(void)'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(344,21): message : This conversion requires a reinterpret_cast, a C-style cast or parenthesized function-style cast
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(342,105): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(384,36): error C2440: '=': cannot convert from '__int64 (__cdecl *)(void)' to '__int64 (__cdecl *)(__int64)'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(384,27): message : This conversion requires a reinterpret_cast, a C-style cast or parenthesized function-style cast
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(385,32): error C2065: 'sub_13C2B30': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(391,30): error C2065: '_ImageBase': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(420,25): error C2065: '_QWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(420,32): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(421,33): error C2143: syntax error: missing ')' before '__cdecl'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(421,33): error C2059: syntax error: '__cdecl'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(421,32): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(422,28): error C2065: 'sub_6B2A40': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(424,29): error C2065: '_BYTE': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(424,35): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(428,108): error C2664: '__int64 (__int64,__int64 (__cdecl *)(void),void **)': cannot convert argument 2 from '__int64 (__cdecl *)(__int64)' to '__int64 (__cdecl *)(void)'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(428,100): message : This conversion requires a reinterpret_cast, a C-style cast or parenthesized function-style cast
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(428,95): warning C4244: '=': conversion from '__int64' to 'char', possible loss of data
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(429,29): error C2065: '_QWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(429,36): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(434,32): error C2065: 'sub_13C31C0': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(435,33): error C2065: '_BYTE': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(435,39): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(437,112): error C2664: '__int64 (__int64,__int64 (__cdecl *)(void),void **)': cannot convert argument 2 from '__int64 (__cdecl *)(__int64)' to '__int64 (__cdecl *)(void)'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(437,104): message : This conversion requires a reinterpret_cast, a C-style cast or parenthesized function-style cast
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(437,99): warning C4244: '=': conversion from '__int64' to 'char', possible loss of data
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(447,32): error C2065: 'sub_6B2A40': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(448,33): error C2065: '_BYTE': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(448,39): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(450,112): error C2664: '__int64 (__int64,__int64 (__cdecl *)(void),void **)': cannot convert argument 2 from '__int64 (__cdecl *)(__int64)' to '__int64 (__cdecl *)(void)'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(450,104): message : This conversion requires a reinterpret_cast, a C-style cast or parenthesized function-style cast
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(450,99): warning C4244: '=': conversion from '__int64' to 'char', possible loss of data
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(456,37): error C2143: syntax error: missing ')' before '__cdecl'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(456,37): error C2059: syntax error: '__cdecl'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(456,36): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(457,32): error C2065: 'sub_6B2A40': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(458,33): error C2065: '_BYTE': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(458,39): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(460,99): warning C4244: '=': conversion from '__int64' to 'char', possible loss of data
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(467,38): error C3861: 'sub_18DDF50': identifier not found
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(470,24): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(470,31): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(476,16): error C2065: '_BYTE': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(476,22): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(477,9): error C2143: syntax error: missing ';' before '{'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(478,29): error C2143: syntax error: missing ')' before '__cdecl'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(478,29): error C2059: syntax error: '__cdecl'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(478,28): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(479,24): error C2065: 'sub_6B2A40': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(480,25): error C2065: '_BYTE': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(480,31): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(482,115): error C2065: '_ImageBase': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(486,26): error C2065: '_BYTE': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(486,32): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(489,29): error C2143: syntax error: missing ')' before '__cdecl'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(489,29): error C2059: syntax error: '__cdecl'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(489,28): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(490,24): error C2065: 'sub_6B2A40': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(491,25): error C2065: '_BYTE': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(491,31): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(493,91): warning C4244: '=': conversion from '__int64' to 'char', possible loss of data
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(496,39): error C3861: 'sub_18DDF50': identifier not found
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(496,86): error C3861: 'sub_18DDF50': identifier not found
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(499,24): error C2065: '_BYTE': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(499,30): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(504,32): error C2065: '_QWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(504,39): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(505,32): error C2065: 'sub_757F90': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(507,25): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(507,33): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(513,36): error C2065: '_QWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(513,43): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(514,29): error C2065: 'off_1B14EE0': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(522,24): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(522,31): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(524,29): error C2143: syntax error: missing ')' before '__cdecl'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(524,29): error C2059: syntax error: '__cdecl'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(524,28): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(529,24): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(529,31): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(534,24): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(534,31): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(539,26): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(539,33): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(550,26): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(550,33): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(561,24): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(561,31): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(566,26): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(566,33): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(577,26): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(577,33): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(588,26): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(588,33): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(599,24): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(599,31): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(604,26): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(604,33): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(615,24): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(615,31): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(620,26): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(620,33): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(631,26): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(631,33): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(642,26): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(642,33): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(654,39): error C3861: 'sub_18DDF50': identifier not found
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(656,26): error C2065: '_BYTE': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(656,32): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(659,24): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(659,31): error C2059: syntax error: ')'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(664,24): error C2065: '_DWORD': undeclared identifier
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\Hooks.cpp(664,20): fatal error C1003: error count exceeds 100; stopping compilation

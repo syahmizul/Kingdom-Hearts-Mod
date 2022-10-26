@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\dllmain.cpp(71,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  kiero.cpp
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\kiero.cpp(44,1): warning C4005: 'KIERO_TEXT': macro redefinition
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\kiero.cpp(42): message : see previous definition of 'KIERO_TEXT'
+C:\Users\syahm\source\repos\Kingdom Hearts Mod\kiero.cpp(724,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
